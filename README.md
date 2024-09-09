@@ -1,27 +1,26 @@
-![Welcome](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdzMWRiZXlycG8xb21yYTFpYzVoenQ4aXB4bHRnejd3MTRjaXM2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+# 👋 Hi, I'm Anish Dahiya!
 
-# 👋 Hi, I'm Anish Dahiya
+I'm a **Computer Science** student specializing in **AI/ML**, currently pursuing my **B.E. in CSE** at **Chandigarh University**.
 
-I'm a **Computer Science and AI/ML Enthusiast** with a passion for leveraging technology to solve real-world challenges. Currently, I'm pursuing my **Bachelor's in Computer Science Engineering (CSE)** with a specialization in **Artificial Intelligence and Machine Learning** from **Chandigarh University**.
-
-With hands-on experience in developing **machine learning models** and building **scalable web applications**, I am always eager to contribute to impactful projects and explore new frontiers in technology.
+I enjoy applying **machine learning** techniques to solve real-world problems and have hands-on experience with scalable **ML models** and **web applications**.
 
 ---
 
-## 🌟 Key Skills
-- **Programming Languages**: Python, SQL
-- **Machine Learning**: Support Vector Machines (SVM), AdaBoost, Convolutional Neural Networks (CNNs)
+## 🚀 Skills
+- **Machine Learning**: SVM, AdaBoost, CNNs
+- **Programming**: Python, SQL
 - **Databases**: MySQL, Cassandra
-- **Web Technologies**: Flask, Ngrok
-- **Frameworks and Tools**: TensorFlow, Keras
+- **Web Development**: Flask, Ngrok
+- **Frameworks**: TensorFlow, Keras
 
 ---
 
-## 💡 What I Offer
-I specialize in designing and deploying machine learning models for predictive analytics and other AI-driven solutions. My expertise spans a variety of algorithms and neural networks, combined with strong database management and web application development skills.
+## 💼 Projects
+- **Congestion Prediction Model**: Reduced traffic congestion by optimizing bus routes using ML.
+- **Parkinson’s Diagnosis**: Developed an early detection system with 91% accuracy.
+- **Music Genre Recognition**: Achieved 89% accuracy using CNNs.
 
 ---
 
-## 🤝 Let's Collaborate!
-I am always open to discussing innovative projects or collaborative opportunities. Feel free to reach out!
-
+Feel free to connect for collaboration or interesting projects! 
+Linked in : https://www.linkedin.com/in/anishdahiya7/

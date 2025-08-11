@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anish Dahiya!
+# 👋 Hi, I'm Anish
 
 I'm a **Computer Science** student specializing in **AI/ML**, currently pursuing my **B.E. in CSE** at **Chandigarh University**.
 
